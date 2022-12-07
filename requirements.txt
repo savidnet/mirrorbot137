@@ -3,7 +3,7 @@ aria2p
 beautifulsoup4
 google-api-python-client
 google-auth-httplib2
-google-auth-oauthlib
+google-auth-oauthlib==0.4.6
 js2py
 lk21
 lxml
